@@ -3,7 +3,7 @@
 A Flutter application to detect object using TFLite.
 
 # Packages used
-[Camera](https://pub.dev/packages/camera)
+[Camera](https://pub.dev/packages/camera)  
 [TFLite](https://pub.dev/packages/flutter_tflite)
 
 ## Getting Started
