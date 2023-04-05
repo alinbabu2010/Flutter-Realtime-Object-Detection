@@ -1,6 +1,7 @@
 # Object Detection
 
-A Flutter application to detect object using TFLite.
+A Flutter application to detect object using TFLite.  
+Modification of the smaple app on [GitHub](https://github.com/shaqian/flutter_realtime_detection) 
 
 # Packages used
 [Camera](https://pub.dev/packages/camera)  
